@@ -1,4 +1,4 @@
---Creating Table 
+--Creating Table
 Create table students(
 student_id serial primary key,
 name varchar(100),
